@@ -1,21 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore 
-et dolore magna aliqua. Et malesuada fames ac turpis. Varius quam quisque id diam. Vitae sapien pellentesque
-habitant morbi tristique senectus et netus. Semper auctor neque vitae tempus quam pellentesque. Sed ullamcorper
-morbi tincidunt ornare massa eget egestas purus. Libero justo laoreet sit amet cursus sit amet dictum.
-Duis convallis convallis tellus id interdum velit laoreet id donec. Ridiculus mus mauris vitae ultricies
-leo. Venenatis a condimentum vitae sapien pellentesque habitant. Faucibus a pellentesque sit amet
-porttitor eget dolor morbi non. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis.
-Volutpat odio facilisis mauris sit amet massa vitae tortor. Et leo duis ut diam.
-
-Natoque penatibus et magnis dis parturient montes. Arcu vitae elementum curabitur vitae nunc sed velit 
-dignissim sodales. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Praesent semper 
-feugiat nibh sed pulvinar proin gravida. At quis risus sed vulputate odio ut enim blandit volutpat. 
-Molestie a iaculis at erat pellentesque adipiscing. Non consectetur a erat nam. Id diam vel quam elementum.
-Id volutpat lacus laoreet non curabitur gravida arcu. Egestas diam in arcu cursus euismod quis viverra nibh.
-Vivamus arcu felis bibendum ut tristique.
-
-Non nisi est sit amet facilisis. Urna molestie at elementum eu facilisis sed odio. Et ultrices neque ornare
-aenean euismod elementum. Egestas congue quisque egestas diam in. Lacus sed viverra tellus in hac habitasse
-platea. Urna cursus eget nunc scelerisque viverra mauris in aliquam sem. Viverra nam libero justo laoreet sit.
-A cras semper auctor neque vitae. Posuere lorem ipsum dolor sit amet. Tristique nulla aliquet enim tortor.
-Tempus quam pellentesque nec nam aliquam sem et tortor.
+body{
+	background-image: url(images/image_anime.jpg);
+	background-repeat: no-repeat;
+  	background-size: 100%;
+}
